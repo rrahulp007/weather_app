@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Box, InputBase, Button, styled } from '@mui/material';
-import { getWeather } from '../services/api';
+import { getWeather } from '../services/Api';
 
 const Container = styled(Box)({
     background: '#445A6F',
